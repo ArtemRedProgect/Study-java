@@ -1,6 +1,3 @@
-import java.util.HashMap;
-import java.util.Map;
-
 public class Main2 {
     public void main(String[] args){
         MyHashMap<Integer, String> myHashMap= new MyHashMap<>();
